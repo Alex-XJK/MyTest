@@ -9,6 +9,8 @@ int main() {
 	if(command == 0){
 		cout << "delete! command received!"<< endl;
 	}
+	else {
+		cout << "Please!!! At least input something!" << endl;
+	}
 	return 1;
-	//collision test
 }
