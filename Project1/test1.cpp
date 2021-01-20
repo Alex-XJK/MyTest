@@ -12,5 +12,9 @@ int main() {
 	else {
 		cout << "Please!!! At least input something!" << endl;
 	}
-	return 1;
+	cout << "Ending!" << endl;
+	if(command == 5) {
+		cout << "It is 5!" << endl;
+	}
+	return 10;
 }
