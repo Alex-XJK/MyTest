@@ -7,10 +7,10 @@ int main() {
 	cout << "Your command here:"<< endl;
 	cin >> command;
 	if(command == 0){
-		cout << "No command received!"<< endl;
+		cout << "delete! command received!"<< endl;
 	}
 	else {
 		cout << "Please!!! At least input something!" << endl;
 	}
-	return 0;
+	return 1;
 }
