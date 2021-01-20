@@ -16,5 +16,6 @@ int main() {
 	if(command == 5) {
 		cout << "It is 5!" << endl;
 	}
+  cout << "new Collision testing for vs code";
 	return 10;
 }
