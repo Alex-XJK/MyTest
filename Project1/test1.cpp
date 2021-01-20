@@ -7,7 +7,8 @@ int main() {
 	cout << "Your command here:"<< endl;
 	cin >> command;
 	if(command == 0){
-		cout << "No command received!"<< endl;
+		cout << "delete! command received!"<< endl;
 	}
-	return 0;
+	return 1;
+	//collision test
 }
