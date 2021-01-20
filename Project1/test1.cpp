@@ -12,5 +12,6 @@ int main() {
 	else {
 		cout << "Please!!! At least input something!" << endl;
 	}
+	cout << "new Collision testing for vs code";
 	return 1;
 }
